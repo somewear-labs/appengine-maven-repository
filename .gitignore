@@ -53,3 +53,6 @@ _sandbox
 *.hprof
 logs/
 captures/
+
+# Credentials file
+src/main/webapp/WEB-INF/users.txt
