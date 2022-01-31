@@ -33,7 +33,7 @@ dependencies {
 
 appengine {
     deploy {
-        projectId = 'GCLOUD_CONFIG'
+        projectId = 'somewear-artifacts'
         version = 'v1'
     }
 }
